@@ -1,0 +1,20 @@
+C:\Users\asus\source\repos\Dosyam Bozuk Mu\Dosyam Bozuk Mu\bin\Debug\Dosyam Bozuk Mu.exe.config
+C:\Users\asus\source\repos\Dosyam Bozuk Mu\Dosyam Bozuk Mu\bin\Debug\Dosyam Bozuk Mu.exe
+C:\Users\asus\source\repos\Dosyam Bozuk Mu\Dosyam Bozuk Mu\bin\Debug\Dosyam Bozuk Mu.pdb
+C:\Users\asus\source\repos\Dosyam Bozuk Mu\Dosyam Bozuk Mu\obj\Debug\Dosyam Bozuk Mu.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\Dosyam Bozuk Mu\Dosyam Bozuk Mu\obj\Debug\Dosyam_Bozuk_Mu.Form1.resources
+C:\Users\asus\source\repos\Dosyam Bozuk Mu\Dosyam Bozuk Mu\obj\Debug\Dosyam_Bozuk_Mu.Properties.Resources.resources
+C:\Users\asus\source\repos\Dosyam Bozuk Mu\Dosyam Bozuk Mu\obj\Debug\Dosyam Bozuk Mu.csproj.GenerateResource.Cache
+C:\Users\asus\source\repos\Dosyam Bozuk Mu\Dosyam Bozuk Mu\obj\Debug\Dosyam Bozuk Mu.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Dosyam Bozuk Mu\Dosyam Bozuk Mu\obj\Debug\Dosyam Bozuk Mu.exe
+C:\Users\asus\source\repos\Dosyam Bozuk Mu\Dosyam Bozuk Mu\obj\Debug\Dosyam Bozuk Mu.pdb
+C:\Users\asus\Desktop\Projeler\Dosyam Bozuk Mu-Yedek\Dosyam Bozuk Mu\bin\Debug\Dosyam Bozuk Mu.exe.config
+C:\Users\asus\Desktop\Projeler\Dosyam Bozuk Mu-Yedek\Dosyam Bozuk Mu\bin\Debug\Dosyam Bozuk Mu.exe
+C:\Users\asus\Desktop\Projeler\Dosyam Bozuk Mu-Yedek\Dosyam Bozuk Mu\bin\Debug\Dosyam Bozuk Mu.pdb
+C:\Users\asus\Desktop\Projeler\Dosyam Bozuk Mu-Yedek\Dosyam Bozuk Mu\obj\Debug\Dosyam Bozuk Mu.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Projeler\Dosyam Bozuk Mu-Yedek\Dosyam Bozuk Mu\obj\Debug\Dosyam_Bozuk_Mu.Form1.resources
+C:\Users\asus\Desktop\Projeler\Dosyam Bozuk Mu-Yedek\Dosyam Bozuk Mu\obj\Debug\Dosyam_Bozuk_Mu.Properties.Resources.resources
+C:\Users\asus\Desktop\Projeler\Dosyam Bozuk Mu-Yedek\Dosyam Bozuk Mu\obj\Debug\Dosyam Bozuk Mu.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\Projeler\Dosyam Bozuk Mu-Yedek\Dosyam Bozuk Mu\obj\Debug\Dosyam Bozuk Mu.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Projeler\Dosyam Bozuk Mu-Yedek\Dosyam Bozuk Mu\obj\Debug\Dosyam Bozuk Mu.exe
+C:\Users\asus\Desktop\Projeler\Dosyam Bozuk Mu-Yedek\Dosyam Bozuk Mu\obj\Debug\Dosyam Bozuk Mu.pdb
